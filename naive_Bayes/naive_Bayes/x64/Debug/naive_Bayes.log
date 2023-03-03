@@ -1,0 +1,6 @@
+﻿  test.c
+D:\MLearning\naive_Bayes\naive_Bayes\test.c(6,10): warning C4047: “return”:“int”与“int *”的间接级别不同
+D:\MLearning\naive_Bayes\naive_Bayes\test.c(13,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\MLearning\naive_Bayes\naive_Bayes\test.c(13,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+D:\MLearning\naive_Bayes\naive_Bayes\test.c(12,7): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  naive_Bayes.vcxproj -> D:\MLearning\naive_Bayes\x64\Debug\naive_Bayes.exe
